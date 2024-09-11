@@ -1,6 +1,4 @@
-# calculator.py
-# Author: ChatGPT (You can modify this as necessary)
-# A simple calculator with basic and extra functionalities
+
 
 import math
 
